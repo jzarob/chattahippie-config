@@ -1,11 +1,11 @@
-# OSX Setup Scripts
+# macOS Setup Scripts
 
 This repository is a quick and effortless way to setup a Mac exactly how I like them for development.
 
 To use the scripts, run the following:
 
 ```sh
-$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/chattahippie/chattahippie-config/master/install.sh)"
+$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/jzarob/jzarob-config/master/install.sh)"
 ```
 
 After inputting confirmation a few times, the script will install the following:

@@ -1,0 +1,11 @@
+node
+python
+python@2
+mongodb
+git
+wget
+zsh
+zsh-completions
+openssl
+wget
+yarn
