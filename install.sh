@@ -19,7 +19,7 @@ npm i -g sass
 #zsh config
 git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 curl -fsSL https://raw.githubusercontent.com/${GITHUB_USERNAME}/${GITHUB_USERNAME}-config/master/.zshrc > ~/.zshrc
-curl -fsSL https://raw.githubusercontent.com/${GITHUB_USERNAME}/${GITHUB_USERNAME}-config/master/agnoster-athomas.zsh-theme > ~/.oh-my-zsh/custom/themes/agnoster-${GITHUB_USERNAME}.zsh-theme
+curl -fsSL https://raw.githubusercontent.com/${GITHUB_USERNAME}/${GITHUB_USERNAME}-config/master/agnoster-${GITHUB_USERNAME}.zsh-theme > ~/.oh-my-zsh/custom/themes/agnoster-${GITHUB_USERNAME}.zsh-theme
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 
 chsh -s /bin/zsh
